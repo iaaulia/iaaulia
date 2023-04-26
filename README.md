@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there! I am Aulia Hajar Mardhatillah
+### 🌝 About Me
+- 👋 I like to meet new people
+- 🤯 I’m currently learning Web Development and other programming languages
+- 📫 You can reach me by email ia.hasibuand@gmail.com
+- ⚡ Fun fact I consider learning an enjoyable journey
+
+## Tech Stack
 
 <!--
 **iaaulia/iaaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
