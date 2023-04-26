@@ -1,11 +1,14 @@
-## Hi there! I am Aulia Hajar Mardhatillah
+## Hi there! <img style="width: 30px;height:30px;" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> I am Aulia Hajar Mardhatillah
 ### 🌝 About Me
 - 👋 I like to meet new people
 - 🤯 I’m currently learning Web Development and other programming languages
 - 📫 You can reach me by email ia.hasibuand@gmail.com
-- ⚡ Fun fact I consider learning an enjoyable journey
+- 🤝 Fun fact I consider learning an enjoyable journey, that you can check it out on my <a href="https://www.linkedin.com/in/aulia-mardhatillah-6b01b9109/">LinkedIn</a>
 
-## Tech Stack
+<img src="https://camo.githubusercontent.com/0c9837fb47204ad3cdcbe3da75414266a19d007721862591c91034559ff6815b/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f307531624e48732d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302532415058663567653751434e3947615f434c2e676966" style="width: 300px;height:auto;" />
+<!-- <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" /> -->
+
+<!-- ## Tech Stack -->
 
 <!--
 **iaaulia/iaaulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
