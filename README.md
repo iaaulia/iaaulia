@@ -6,7 +6,10 @@
 - 📫 You can reach me by email ia.hasibuand@gmail.com
 <!-- - 🤝 Fun fact I consider learning an enjoyable journey, that you can check it out on my <a href="https://www.linkedin.com/in/aulia-mardhatillah-6b01b9109/">LinkedIn</a> -->
 
-<img src="https://live.staticflickr.com/65535/52963975038_83b0e1e68b_o.jpg" style="width: 300px;height:auto;" />
+<img src="https://live.staticflickr.com/65535/52964002441_94a7650c3a_o.png" style="width: 300px;height:auto;" />
+
+
+
 <!-- <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" /> -->
 
 <!-- ## Tech Stack -->
