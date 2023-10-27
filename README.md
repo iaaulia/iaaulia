@@ -5,7 +5,7 @@
 - 📫 You can reach me by email ia.hasibuand@gmail.com
 <!-- - 🤝 Fun fact I consider learning an enjoyable journey, that you can check it out on my <a href="https://www.linkedin.com/in/aulia-mardhatillah-6b01b9109/">LinkedIn</a> -->
 
-<img src="https://live.staticflickr.com/65535/52964002441_94a7650c3a_o.png" style="width: 300px;height:auto;" />
+
 
 
 
