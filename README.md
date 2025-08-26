@@ -1,2 +1,2 @@
 ## Hi there! I am Aulia
-I am a self-thaught developer from Indonesia
+I am a self-thaught coder from Indonesia
